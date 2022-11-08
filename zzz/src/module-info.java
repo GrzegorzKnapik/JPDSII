@@ -6,5 +6,5 @@
  *
  */
 module zzz {
-	asaf
+	asaff
 }
